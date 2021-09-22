@@ -1,6 +1,6 @@
 import  express from 'express'
 
-const PORT = process.env.PORT ?? 3000 // проверяет наличие порта по умолчанию иначе 3000
+const PORT = "https://lastasf.github.io/" // проверяет наличие порта по умолчанию иначе 3000
 const app = express()
 
 app.get('/', (req, res) => {
