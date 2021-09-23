@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+#backgroundTest{
+    background-image: url(ba1e5efebbdc1fce8603.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+#img{
+    text-align: center;
+}
